@@ -8,7 +8,7 @@ import module java.base;
 //import java.util.stream.Collectors;
 //import java.util.stream.Stream;
 
-public class BaseModuleImport {
+public class BaseModuleExample {
     public static void main(String[] args) {
         System.out.println("---------------------------------------------");
 
