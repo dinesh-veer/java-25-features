@@ -70,7 +70,10 @@ java-25-features
 │                   ├── flexibleConstructorBodies
 │                   ├── moduleImport
 │                   ├── patternMatchingWithPrimitivie
-│                   └── scopedValues
+│                   ├── patternMatchingWithPrimitivie
+│                   ├── scopedValues
+│                   └── collectionEnhancement
+│                              
 │
 ├── pom.xml
 └── README.md
