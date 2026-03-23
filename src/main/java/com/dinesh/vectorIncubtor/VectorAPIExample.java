@@ -7,6 +7,8 @@ import jdk.incubator.vector.VectorSpecies;
  * Run using below command:
  *java --add-modules jdk.incubator.vector VectorAPIExample.java
  *
+ * Instead of adding elements one by one (scalar processing), this code tells your CPU
+ * to grab a chunk of numbers and add them all together at the exact same time.
  */
 public class VectorAPIExample {
 
