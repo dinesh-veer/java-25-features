@@ -9,6 +9,10 @@ public class ScopedValueExample {
 
         System.out.println("----------------------------------------------------");
 
+        ScopedValue.where(USER, "A").run(() -> {
+         //   USER.set("B"); // ScopedValue is immutable will get compile time error
+        });
+
         System.out.println(USER.get());//Exception will thrown NoSuchElementException
 
         //ScopedValue does not have a "default" value, and it is completely empty when you create it with newInstance().
