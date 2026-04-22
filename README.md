@@ -70,9 +70,10 @@ java-25-features
 │                   ├── flexibleConstructorBodies
 │                   ├── moduleImport
 │                   ├── patternMatchingWithPrimitivie
-│                   ├── patternMatchingWithPrimitivie
+│                   ├── trickyExamples
 │                   ├── scopedValues
 |                   ├── kdfApi
+|                   ├── vectorIncubtor
 │                   └── collectionEnhancement
 │                              
 │
