@@ -218,7 +218,9 @@ For:
 If this repository helps you learn modern Java:
 
 ⭐ Star the repository
+
 🍴 Fork it
+
 📢 Share it with other developers
 
 ---
